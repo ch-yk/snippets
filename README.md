@@ -1,2 +1,6 @@
 # snippets
-Code snippets: C98, Cpp11, Golang, Java, Python 
+Code snippets: C89, Cpp11, Golang, Java, Python.
+
+懂的人自然懂。
+
+
